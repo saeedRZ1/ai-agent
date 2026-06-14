@@ -1,0 +1,11 @@
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-openai==0.1.25
+openai==1.45.0
+duckduckgo-search==6.2.13
+wikipedia==1.4.0
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+streamlit==1.38.0
+pydantic==2.9.2
+python-dotenv==1.0.1
